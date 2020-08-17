@@ -1,0 +1,4 @@
+[2020-08-17 14:32:45:353461][http-nio-8080-exec-3] INFO  c.c.l.config.aop.warn.BindingAdvice - 인포 나오나
+[2020-08-17 14:32:45:353461][http-nio-8080-exec-3] DEBUG c.c.l.config.aop.warn.BindingAdvice - 디버그 나오나
+[2020-08-17 14:32:45:353461][http-nio-8080-exec-3] ERROR c.c.l.config.aop.warn.BindingAdvice - 에러 나오나
+[2020-08-17 14:32:45:353461][http-nio-8080-exec-3] WARN  c.c.l.config.aop.warn.BindingAdvice - com.cos.logtest.controller.IndexController : user() 이메일이 공백일 수 없습니다.
